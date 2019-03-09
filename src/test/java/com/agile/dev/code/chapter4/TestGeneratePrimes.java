@@ -1,5 +1,8 @@
 package com.agile.dev.code.chapter4;
 
+import com.agile.dev.code.chapter5.GeneratePrimes;
+import com.agile.dev.code.chapter5.GeneratePrimesV1;
+import com.agile.dev.code.chapter5.GeneratePrimesV2;
 import junit.framework.TestCase;
 import org.junit.Assert;
 import org.junit.Test;

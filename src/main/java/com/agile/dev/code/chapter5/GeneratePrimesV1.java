@@ -1,4 +1,4 @@
-package com.agile.dev.code.chapter4;
+package com.agile.dev.code.chapter5;
 
 /**
  * @description: 重构1
